@@ -1,33 +1,30 @@
+# Project 1: Discount Mart (Sales and Profit Analytics)
 
-Project 1: Discount Mart (Sales and Profit Analytics)
-Discount Mart is a small supermarket owned by Grant Frost. He wants a dashboard where he can track how well Discount Mart is doing for this year (in terms of Sales, Profit, and Quantity Sold).
+## Overview
+Discount Mart is a small supermarket owned by Grant Frost. He wants a dashboard where he can track how well Discount Mart is doing for this year in terms of Sales, Profit, and Quantity Sold. Additionally, he would like to analyze the performance of different product categories and regions.
 
-Objective
-Grant Frost seeks insights into the performance of Discount Mart, focusing on sales, profit, and quantity sold. Additionally, he aims to understand the performance of different categories and regions within the supermarket.
+Grant Frost also assumes that most customers buy 2 or more products per basket/order but would like this confirmed by the data. He has noted that Profit is 30% of the selling price.
 
-Business Questions
-How are sales, profit, and quantity sold trending over the year?
-Which categories are performing well in terms of sales and profit?
-How do different regions contribute to overall sales and profit?
-What is the average basket/order size?
-Dataset
-The dataset for this project can be accessed here. It contains information on sales, profit, quantity sold, categories, regions, and other relevant metrics for Discount Mart.
+## Dataset
+The dataset for this project can be found [here](https://databudd.com/s/discountmart.csv).
 
-Logo
-Discount Mart Logo
+## Logo
+![Discount Mart Logo](https://databudd.com/s/Discount-Mart-1.png)
 
-Methodology
-Data Cleaning: Ensure the dataset is free from missing values, inconsistencies, and errors.
-Exploratory Data Analysis (EDA): Gain insights into the data through visualizations and statistical summaries.
-Dashboard Creation: Develop interactive dashboards using Tableau to visualize key metrics and answer business questions.
-Interpretation: Analyze dashboard insights to provide actionable recommendations for Discount Mart.
-Key Metrics
-Sales: Total revenue generated from products sold.
-Profit: Total earnings after deducting costs (assuming profit is 30% of the selling price).
-Quantity Sold: Total number of products sold.
-Category Performance: Sales and profit metrics for different product categories.
-Regional Performance: Sales and profit metrics for different regions.
-Conclusion
-By leveraging data analytics, Discount Mart can make informed decisions to enhance sales, improve profitability, and optimize operations. The dashboard will serve as a valuable tool for Grant Frost and his team to monitor performance and identify areas for growth.
+## Analysis
+This project aims to provide insights into the sales and profit performance of Discount Mart. The analysis will include:
 
-Feel free to explore the dashboard and reach out for any further inquiries or assistance.
+- Tracking Sales, Profit, and Quantity Sold for the current year.
+- Analyzing the performance of different product categories.
+- Evaluating sales performance across different regions.
+- Confirming the average number of products per basket/order.
+
+## Tools Used
+The analysis will be conducted using Tableau, a powerful data visualization tool.
+
+## Usage
+To explore the dashboard, follow these steps:
+1. Download the dataset from the provided link.
+2. Open the Tableau project.
+3. Connect the dataset to the Tableau project.
+4. Utilize the interactive features of the dashboard to explore sales and profit analytics.
