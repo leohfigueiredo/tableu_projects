@@ -1,0 +1,30 @@
+
+Discount Mart (Sales and Profit Analytics)
+Welcome to the Discount Mart Sales and Profit Analytics project repository! This project aims to provide insights into the sales, profit, and quantity sold by analyzing the data from Discount Mart, a small supermarket owned by Grant Frost. The dashboard created for this project facilitates tracking Discount Mart's performance for the current year, including sales, profit, and quantity sold metrics. Additionally, it offers insights into category performance and regional sales analysis.
+
+Project Overview
+Discount Mart's owner, Grant Frost, desires a comprehensive dashboard to monitor the supermarket's performance. The key objectives of this project are as follows:
+
+Track sales, profit, and quantity sold metrics for Discount Mart.
+Analyze category-wise performance.
+Examine regional sales trends.
+Confirm the average number of products purchased per basket/order.
+Dataset
+The dataset for this project is available in CSV format. You can access it here. The dataset contains the necessary information for analysis, including sales, profit, quantity sold, categories, and regions.
+
+Logo
+The logo for Discount Mart is available here. Feel free to use it as needed for visual representation within the project.
+
+Project Components
+This project consists of the following components:
+
+Dashboard: A Tableau dashboard showcasing various metrics and insights derived from the dataset.
+
+Analysis: Detailed analysis reports highlighting sales, profit, quantity sold, category performance, and regional trends.
+
+How to Contribute
+Contributions to this project are welcome! If you have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+Acknowledgments
+Thanks to Grant Frost for providing the opportunity to work on this project and for sharing the dataset.
+Special thanks to DataBudd for hosting the dataset and logo files.
